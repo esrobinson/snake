@@ -1,7 +1,7 @@
 snake
 =====
 
-With Eric Robinson (@esrobinson) for App Academy (@appacademy).   
+With Julie Kang (@esrobinson) for App Academy (@appacademy).   
 
 The classic Nokia phone game, made epic with JavaScript and jQuery.   
 
